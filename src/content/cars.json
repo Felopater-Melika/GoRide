@@ -1,0 +1,40 @@
+[
+
+  {
+    "name": "Honda Civic",
+    "year": 2022,
+    "price": "$60/day",
+    "image": "/assets/civic.jpg"
+  },
+  {
+    "name": "Acura RDX",
+    "year": 2023,
+    "price": "$80/day",
+    "image": "/assets/acura.jpg"
+  },
+  {
+    "name": "Toyota Corolla",
+    "year": 2021,
+    "price": "$50/day",
+    "image": "/assets/corolla.jpg"
+  },
+  {
+    "name": "Acura RDX",
+    "year": 2023,
+    "price": "$80/day",
+    "image": "/assets/acura.jpg"
+  },
+  {
+    "name": "Toyota Corolla",
+    "year": 2021,
+    "price": "$50/day",
+    "image": "/assets/corolla.jpg"
+  },
+  {
+    "name": "Honda Civic",
+    "year": 2022,
+    "price": "$60/day",
+    "image": "/assets/civic.jpg"
+  }
+
+]
